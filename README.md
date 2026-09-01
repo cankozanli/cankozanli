@@ -32,7 +32,8 @@ I am particularly interested in exploring how these skills can be combined with 
 I am open to intership, research and entry-level opportunites in Data Science, Data Analytics and related field.
 
 ## Connect
-Likedln: https://www.linkedin.com/in/cankozanli/
+- Likedln: https://www.linkedin.com/in/cankozanli/
+- Kaggle: https://www.kaggle.com/cankozanli
 
 
 
