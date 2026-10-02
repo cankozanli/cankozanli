@@ -1,6 +1,6 @@
 ## Hi, I am Can
 
-I am an MSc Data Science student based in London, witha background in Dentistry.
+I am an MSc Data Science student based in London, with a background in Dentistry.
 I am building my career in Data Science with a strong interest in using data, statistics and machine learning to solve real-world problems.
 
 
